@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5603a337c3ebb9e4b915764f2409b554
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165956
+  packageName: Gun Towers
+  packageVersion: 1.0
+  assetPath: Assets/Gun Towers/Demo/LightingData.asset
+  uploadId: 365945
